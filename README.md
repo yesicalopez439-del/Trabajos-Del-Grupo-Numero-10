@@ -9,6 +9,9 @@ modelado e implementación de estructuras de datos.Este repositorio refleja el t
 mejorar nuestras competencias técnicas y comprender de manera práctica cómo funcionan las bases de datos en contextos reale
 
 MIEMBROS DEL EQUIPO: LIDER: YESICA ALEJANDRA LÓPEZ BEDOYA 
+
 INTEGRANTE: VALENTINA BEDOYA ARANGO 
+
 INTEGRANTE: SIMON BLANDON VILLA 
+
 INTEGRANTE: JESUS ANEGL RUIZ BUILES 
