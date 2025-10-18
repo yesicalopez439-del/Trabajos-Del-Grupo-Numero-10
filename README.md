@@ -1,6 +1,9 @@
 INSTITUCIÓN UNIVERSITARIA PASCUAL BRAVO
+
 PROGRAMA: Tecnología en Desarrollo de Software 
+
 CURSO: Base de Datos 1 (ET0057)
+
 PROFESOR: Jaime Soto U. GRUPO: 10#
 
 PROPOSITO: El propósito de este repositorio es servir como una base de referencia y aprendizaje para el desarrollo de bases de datos. A través de este proyecto,
