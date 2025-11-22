@@ -13,10 +13,17 @@ mejorar nuestras competencias técnicas y comprender de manera práctica cómo f
 
 MIEMBROS DEL EQUIPO:
 
-LIDER: YESICA ALEJANDRA LÓPEZ BEDOYA 
+LIDER: Yesica Alejandra López Bedoya
 
-INTEGRANTE: VALENTINA BEDOYA ARANGO 
+INTEGRANTE: valentiba Bedoya Arango
 
-INTEGRANTE: SIMON BLANDON VILLA 
+INTEGRANTE:Simon Blando Villa
 
-INTEGRANTE: JESUS ANEGL RUIZ BUILES 
+INTEGRANTE: Jesus Anmgel Ruiz Builes
+
+DESCRIPCIÓN DE TRABAJOS:
+
+TAREA 2:
+El taller (Tarea 2) es un trabajo en equipo que consiste en el Diseño de una Base de Datos para un caso de estudio de un Zoológico. Su objetivo es aplicar el Modelo 
+Entidad-Relación (E-R) para modelar la información del zoológico (especies, empleados, itinerarios, etc.).
+
