@@ -23,7 +23,9 @@ INTEGRANTE: Jesus Anmgel Ruiz Builes
 
 DESCRIPCIÓN DE TRABAJOS:
 
-TAREA 2:
-El taller (Tarea 2) es un trabajo en equipo que consiste en el Diseño de una Base de Datos para un caso de estudio de un Zoológico. Su objetivo es aplicar el Modelo 
-Entidad-Relación (E-R) para modelar la información del zoológico (especies, empleados, itinerarios, etc.).
+TAREA 2: El taller (Tarea 2) es un trabajo en equipo con un peso del 20% de la nota final, enfocado en el Diseño de una Base de Datos en el Modelo Entidad-Relación (E-R) para el Caso de Estudio: Zoológico.
+Su objetivo es aplicar el Modelo Entidad-Relación (E-R) para modelar la información del zoológico (especies, empleados, itinerarios, etc.).
+El producto clave es una propuesta de Modelo Conceptual básico que identifica entidades, atributos, y relaciones con sus respectivas cardinalidades.
+Dicho modelo conceptual debe ser representado obligatoriamente mediante un Diagrama de Entidad-Relación de Chen.
+Adicionalmente, se requiere una investigación sobre diferentes modelos E-R y la presentación de un informe final junto con un video de sustentación en un repositorio Git.
 
