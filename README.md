@@ -42,7 +42,6 @@ resultantes tengan los mismos nombres que las entidades y relaciones del proceso
 las tablas (CREATE TABLE).Scripts DDL de Modificación: Crear Scripts DDL para la modificación de las tablas (ALTER TABLE), los cuales deben ejecutarse después de la creación.
 
 TAREA 6:El taller TIA-06 lleva por nombre DML - Lenguaje de Manipulación de Datos (Manipulación de Base de Datos Física) y se enfoca en la fase de Operación y Gestión de Datos dentro del proyecto general, posterior a la implementación del Modelo Físico (DDL).
-
 La TIA-06 se centra en manipular, consultar y validar la integridad transaccional de la información almacenada en el Sistema Gestor de Base de Datos (SGBD).
 Las actividades principales incluyen:
 Poblamiento de la Base de Datos (INSERT): Generar los Scripts DML necesarios para la carga inicial de datos en todas las tablas creadas.
