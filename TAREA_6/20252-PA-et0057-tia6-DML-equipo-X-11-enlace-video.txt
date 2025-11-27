@@ -1,0 +1,13 @@
+--
+-- Tarea 5 - Parte #1 del Proyecto de Aula
+-- ENLACE A VIDEO (youtube, vimeo, drive de google, entre otros.
+--
+-- Miembros del grupo
+--
+--
+
+--
+-- Colocar el enlace al video con nombre "20252-PA-et0057-tia6-DML-equipo-X-video"
+--https://www.loom.com/share/d1d365b66c3e45a1af25a5b15ab595ea
+-- 
+
