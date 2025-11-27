@@ -40,3 +40,13 @@ La TIA-05 se centra en transformar el diseño lógico previo en una estructura f
 Preparación: Corregir el Diagrama Entidad-Relación y revisar el proceso de normalización previo.Diccionario Físico: Elaborar el Diccionario de Datos Físico, asegurando que las tablas 
 resultantes tengan los mismos nombres que las entidades y relaciones del proceso de normalización.Scripts DDL de Creación: Generar los Scripts DDL (Data Definition Language) para la creación de todas
 las tablas (CREATE TABLE).Scripts DDL de Modificación: Crear Scripts DDL para la modificación de las tablas (ALTER TABLE), los cuales deben ejecutarse después de la creación.
+
+TAREA 6:El taller TIA-06 lleva por nombre DML - Lenguaje de Manipulación de Datos (Manipulación de Base de Datos Física) y se enfoca en la fase de Operación y Gestión de Datos dentro del proyecto general, posterior a la implementación del Modelo Físico (DDL).
+
+La TIA-06 se centra en manipular, consultar y validar la integridad transaccional de la información almacenada en el Sistema Gestor de Base de Datos (SGBD).
+Las actividades principales incluyen:
+Poblamiento de la Base de Datos (INSERT): Generar los Scripts DML necesarios para la carga inicial de datos en todas las tablas creadas.
+Gestión de Datos (UPDATE y DELETE): Crear Scripts DML para la actualización y eliminación de registros, asegurando la integridad de las relaciones.
+Consultas (SELECT): Generar Scripts DML para la extracción y manejo de información, incluyendo la creación de consultas básicas y consultas avanzadas que involucren uniones y agregaciones.
+Creación y uso de Vistas: Crear y utilizar una vista especial para simplificar el acceso a datos complejos.
+Validación ACID: Aplicar y explicar el resultado del test de las propiedades ACID (Atomicidad, Consistencia, Aislamiento, Durabilidad) en las consultas y transacciones ejecutadas.
